@@ -1,0 +1,7 @@
+firebase-admin==5.3.0
+streamlit
+streamlit_option_menu
+contractions==0.1.73
+wordninja==2.0.0
+vaderSentiment==3.3.2
+nltk==3.8.1
